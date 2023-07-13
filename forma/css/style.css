@@ -1,0 +1,70 @@
+.header {
+    background-color: #f2f2f2;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .logo-container {
+    display: list-item;
+    align-items: center;
+  }
+  
+  .logo {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .company-name {
+    font-size: 20px;
+    margin-left: 10px;
+    color: rgb(218, 68, 8);
+  }
+  
+  .contact-container {
+    display: list-item;
+    align-items: center;
+  }
+  
+  .social-links ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .social-links li {
+    margin-right: 10px;
+  }
+  
+  .social-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+  }
+  
+  .contact-details {
+    font-size: 14px;
+  }
+  
+  .banner {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .banner-image {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .content {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .footer {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+  }
